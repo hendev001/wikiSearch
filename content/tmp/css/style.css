@@ -1,0 +1,45 @@
+
+
+body{
+  color: rgb(26, 23, 23);
+  background: #f8f8f8;
+}
+
+input[type=text]:focus {
+  width: 100%;
+ 
+}
+
+.well{
+  box-shadow: 5px 5px 10px 3px #333;
+  background: #f3f1f1;
+}
+
+
+h1,i{
+  color: #f9f9f9;
+
+}
+
+small{
+  color: #f8f8f8;
+  margin-left: 20px;
+}
+
+.container{
+  padding:60px;
+
+  
+}
+
+.row .col-md-6{
+  margin-bottom: 30px;
+  margin-left: 20px;
+}
+
+img{
+  margin-top: 9px;
+ 
+
+}
+
